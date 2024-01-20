@@ -1,7 +1,5 @@
 # CodeCollab - Collaborative Online Code Editor
 
-![CodeCollab Logo](link/to/logo.png)
-
 CodeCollab is a powerful and collaborative online code editor built with ReactJS and NodeJS. It allows multiple developers to work together in real-time, enhancing team productivity and making remote collaboration seamless.
 
 ## Features
@@ -10,9 +8,7 @@ CodeCollab is a powerful and collaborative online code editor built with ReactJS
 
 - **Syntax Highlighting:** The editor supports syntax highlighting for various programming languages, making code reading and writing more comfortable.
 
-- **Multi-Language Support:** CodeCollab supports a wide range of programming languages, ensuring that developers can work on projects using their preferred language.
-
-- **Version Control Integration:** Seamlessly integrate with popular version control systems like Git, allowing developers to manage their codebase efficiently.
+- **Multi-Language Support:** CodeCollab supports and runs a wide range of programming languages, ensuring that developers can work on projects using their preferred language.
 
 - **Code Sharing:** Easily share your code with others by generating a shareable link. This is especially useful for quick collaboration or seeking assistance from team members.
 
